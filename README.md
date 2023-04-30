@@ -12,4 +12,6 @@ cd Uno13x
 
 ls
 
+chmod +x Tools-Uno.sh 
+
 bash Tools-Uno.sh 
