@@ -15,3 +15,5 @@ ls
 chmod +x Tools-Uno.sh 
 
 bash Tools-Uno.sh 
+____________________
+Quando vc executa a ferramenta ela instala 10 ferramentas em seu terminal d uma vez só 
